@@ -1,2 +1,3 @@
 # Round-Robin-Scheduler
-The C code implements a Round Robin Query Handling System for faculty and student queries, providing detailed execution output and a summary of processing times.
+
+The C code is a Query Handling System that processes faculty and student queries using the Round Robin scheduling algorithm. Users input query details, and the program sorts and merges queries based on arrival time. It then applies Round Robin scheduling, providing detailed output for each query's execution. The program concludes with a summary of total handling time and average waiting/turnaround times. The implementation includes structures, QuickSort for sorting, and Round Robin scheduling. The report outlines project objectives, system overview, implementation details, and future enhancements.
